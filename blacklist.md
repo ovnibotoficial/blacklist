@@ -1,5 +1,7 @@
 ## Ovni#7487 (708915970025979914)
 
+**Última atualização:** `07/11/2020`
+
 **Logo abaixo estará a lista com o ID dos usuários que estão na blacklist, caso seu ID esteja aqui, você deverá contactar a equipe para fazer um pedido de desbanimento (caso aplicado injustamente).**
 
   Link do servidor:  [https://discord.com/invite/kXXYzDu](https://discord.com/invite/kXXYzDu)
@@ -42,3 +44,5 @@
       - **Motivo:** Desrespeito com o administrador do Ovni
 17. **ID:** 664272996713889844
       - **Motivo:** Se você não está de acordo com os termos, então, não precisa utilizar o Ovni
+      
+### Esta lista tem um prazo de até 30 dias para ser atualizada! Portanto, caso haja novos banimentos ou desbanimentos levará este mesmo tempo para sofrer alterações!
