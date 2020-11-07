@@ -1,6 +1,6 @@
 ## Ovni#7487 (708915970025979914)
 
-**Última atualização:** `07/11/2020`
+> **Última atualização:** `07/11/2020`
 
 **Logo abaixo estará a lista com o ID dos usuários que estão na blacklist, caso seu ID esteja aqui, você deverá contactar a equipe para fazer um pedido de desbanimento (caso aplicado injustamente).**
 
