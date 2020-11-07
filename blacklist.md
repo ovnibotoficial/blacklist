@@ -6,6 +6,8 @@
   
 **=> Se supostamente você foi banido(a) do servidor, ai o problema não é nosso!** :sun_with_face:
 
+*De qualquer forma se você estiver banido, utilize algum comando do Ovni. Caso venha a receber uma resposta em sua DM, leia atentamente as informações!*
+
 1. **ID:** 322090888937603073
       - **Motivo:** Homofobia. Desacato total com um dos administradores do Ovni, sem motivo
 2. **ID:** 613447791246704858
