@@ -21,3 +21,5 @@ Após você ser banido(a) de usar o Ovni você:
 - Ficará proibido de usar qualquer comando do Ovni, ao tentar utiliza-lo, Ovni enviará uma mensagem dizendo que você está banido(a).
 - Qualquer usuário que utilizar o comando   o!userinfo   em você, Ovni mostrará a eles que você está banido(a).
 - Se o servidor for banido, Ovni sairá automaticamente caso algum Staff do servidor coloque-o novamente.
+
+Para ver a lista completa de usuário banidos de utilizar o Ovni [clique aqui](https://github.com/ovnibotoficial/blacklist/blob/main/blacklist.md).
