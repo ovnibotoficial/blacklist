@@ -1,6 +1,6 @@
 ## Ovni#7487 (708915970025979914)
 
-> **Última atualização:** `08/11/2020`
+> **Última atualização:** `23/11/2020`
 
 **Logo abaixo estará a lista com o ID dos usuários que estão na blacklist, caso seu ID esteja aqui, você deverá contactar a equipe para fazer um pedido de desbanimento (caso aplicado injustamente).**
 
@@ -46,5 +46,7 @@
       - **Motivo:** Se você não está de acordo com os termos, então, não precisa utilizar o Ovni
 18. **ID:** 774876297066971208
       - **Motivo:** Marcar todos os usuários do servidor e em todos os canais (incluindo o próprio administrador do Ovni) para raidar o servidor com desenhos em formato de caractere de conteúdos NSFW (https://prnt.sc/vfh4vn)
-      
+19. **ID:** 770522540606619659
+      - **Motivo:** De acordo com a ToS do Discord é proibido menores de 13 anos usarem a plataforma. Caso já atinja a idade mínima necessária, contate a equipe de desenvolvedores do Ovni.
+
 ### Esta lista tem um prazo de até 30 dias para ser atualizada! Portanto, caso haja novos banimentos ou desbanimentos levará este mesmo tempo para sofrer alterações!
