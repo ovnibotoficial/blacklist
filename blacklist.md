@@ -1,6 +1,6 @@
 ## Ovni#7487 (708915970025979914)
 
-> **Última atualização:** `23/11/2020`
+> **Última atualização:** `28/11/2020`
 
 **Logo abaixo estará a lista com o ID dos usuários que estão na blacklist, caso seu ID esteja aqui, você deverá contactar a equipe para fazer um pedido de desbanimento (caso aplicado injustamente).**
 
@@ -52,5 +52,9 @@
       - **Motivo:** Quebra ToS do Discord; Selfbots
 21. **ID:** 770522540606619659
       - **Motivo:** De acordo com a ToS do Discord é proibido menores de 13 anos usarem a plataforma. Caso já atinja a idade mínima necessária, contate a equipe de desenvolvedores do Ovni.
+22. **ID:** 537407060875149324
+      - **Motivo:** Quebra do ToS do Discord; Selfbot
+23. **ID:** 671800551511687198
+      - **Motivo:** Se passar pela equipe da Staff (Personificação)
 
 ### Esta lista tem um prazo de até 30 dias para ser atualizada! Portanto, caso haja novos banimentos ou desbanimentos levará este mesmo tempo para sofrer alterações!
