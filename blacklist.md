@@ -4,7 +4,7 @@
 
 **Logo abaixo estará a lista com o ID dos usuários que estão na blacklist, caso seu ID esteja aqui, você deverá contactar a equipe para fazer um pedido de desbanimento (caso aplicado injustamente).**
 
-  Link do servidor:  [https://discord.com/invite/kXXYzDu](https://discord.com/invite/kXXYzDu)
+  Acredita ter sido banido injustamente? [Clique aqui](https://forms.gle/oj4yX4AgCz7uQiBg8)
   
 **=> Se supostamente você foi banido(a) do servidor, ai o problema não é nosso!** :sun_with_face:
 
