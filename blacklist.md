@@ -47,9 +47,9 @@
 18. **ID:** 774876297066971208
       - **Motivo:** Marcar todos os usuários do servidor e em todos os canais (incluindo o próprio administrador do Ovni) para raidar o servidor com desenhos em formato de caractere de conteúdos NSFW (https://prnt.sc/vfh4vn)
 19. **ID:** 760706855084883979
-      - **Motivo:** Quebra ToS do Discord; Selfbots [[BAN AUTO]]
+      - **Motivo:** Quebra ToS do Discord; Selfbots [BAN AUTO]
 20. **ID:** 608767164220047360
-      - **Motivo:** Quebra ToS do Discord; Selfbots [[BAN AUTO]]
+      - **Motivo:** Quebra ToS do Discord; Selfbots [BAN AUTO]
 21. **ID:** 770522540606619659
       - **Motivo:** De acordo com a ToS do Discord é proibido menores de 13 anos usarem a plataforma. Caso já atinja a idade mínima necessária, contate a equipe de desenvolvedores do Ovni.
 22. **ID:** 537407060875149324
@@ -57,20 +57,20 @@
 23. **ID:** 671800551511687198
       - **Motivo:** Se passar pela equipe da Staff (Personificação)
 24. **ID:** 242360768878608386
-      - **Motivo:** Quebra do ToS do Discord; Selfbot [[BAN AUTO]]
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
 25. **ID:** 270650328741838852
-      - **Motivo:** Quebra do ToS do Discord; Selfbot [[BAN AUTO]]
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
 26. **ID:** 471783160481447936
-      - **Motivo:** Quebra do ToS do Discord; Selfbot [[BAN AUTO]]
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
 27. **ID:** 780408285504208937
-      - **Motivo:** Quebra do ToS do Discord; Selfbot [[BAN AUTO]]     
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]     
 28. **ID:** 668527271891697667
-      - **Motivo:** Quebra do ToS do Discord; Selfbot [[BAN AUTO]] 
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO] 
 29. **ID:** 714643656140652594
       - **Motivo:** Por ser uma criança mimada e ficar tirando onda com a cara da equipe porque não se importa ser punido e fica ofendendo a equipe desobedecendo aos pedidos da equipe mesmo a equipe ter dito e ter punido e ainda ter dado segunda chance e não soube aproveitar. Mesmo que o comportamento não tenha sido feito no servidor de suporte e sim o outro você abusou da humildade do administrador do Ovni e está sendo punido por ser uma pessoa tóxica e babaca
 30. **ID:** 517156822612836392
-      - **Motivo:** Quebra do ToS do Discord; Selfbot [[BAN AUTO]]
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
 31. **ID:** 649396552556609565
-      - **Motivo:** Quebra do ToS do Discord; Selfbot [[BAN AUTO]]
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
       
 ### Esta lista tem um prazo de até 30 dias para ser atualizada! Portanto, caso haja novos banimentos ou desbanimentos levará este mesmo tempo para sofrer alterações!
