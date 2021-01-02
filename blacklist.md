@@ -1,10 +1,10 @@
 ## Ovni#7487 (708915970025979914)
 
-> **Última atualização:** `10/12/2020`
+> **Última atualização:** `02/01/2021`
 
 **Logo abaixo estará a lista com o ID dos usuários que estão na blacklist, caso seu ID esteja aqui, você deverá contactar a equipe para fazer um pedido de desbanimento (caso aplicado injustamente).**
 
-  Acredita ter sido banido injustamente? [Clique aqui](https://forms.gle/oj4yX4AgCz7uQiBg8)
+  Acredita ter sido banido injustamente? [Clique aqui](https://forms.gle/isFw1DgkWTagphd8A)
   
 **=> Se supostamente você foi banido(a) do servidor, ai o problema não é nosso!** :sun_with_face:
 
@@ -72,5 +72,15 @@
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
 31. **ID:** 649396552556609565
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
+32. **ID:** 639556414032969739
+      - **Motivo:** Ofensas ao BOT no servidor de suporte
+33. **ID:** 757513323934777374
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
+34. **ID:** 759537468705472542
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
+35. **ID:** 718934775808655380
+      - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
+36. **ID:** 497544475678081034
+      - **Motivo:** Por ser ignorante com o próprio administrador do Ovni e pedir pra ser banido
       
 ### Esta lista tem um prazo de até 30 dias para ser atualizada! Portanto, caso haja novos banimentos ou desbanimentos levará este mesmo tempo para sofrer alterações!
