@@ -1,6 +1,8 @@
 ## Ovni#7487 (708915970025979914)
 
-> **Última atualização:** `12/01/2021`
+> **Última atualização:** `17/01/2021`
+
+### **Total de usuários banidos:** 40
 
 **Logo abaixo estará a lista com o ID dos usuários que estão na blacklist, caso seu ID esteja aqui, você deverá contactar a equipe para fazer um pedido de desbanimento (caso aplicado injustamente).**
 
@@ -84,13 +86,13 @@
       - **Motivo:** Por ser ignorante com o próprio administrador do Ovni e pedir pra ser banido
 37. **ID:** 791769666771091456
       - **Motivo:** Você também é um falido da vida e não ficamos indo no seu DM para dizer verdades sobre sua pessoa. Por entrar no servidor de suporte e ser tóxico sem nenhum motivo
-38. **ID:** 714443961351274528
-      - **Motivo:** Abusar de bugs do Ovni, transferindo valores extremamente alto para os usuários
-39. **ID:** 756071038474911845
+38. **ID:** 756071038474911845
       - **Motivo:** You do not need to use Ovni if you are going to be using rape commands, as we do not support such behavior and will never have this command on Ovni. (https://prnt.sc/wjurwr)
-40. **ID:** 725244684070289409
+39. **ID:** 725244684070289409
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-41. **ID:** 726632216888606881
+40. **ID:** 726632216888606881
       - **Motivo:** Selfbot (https://prnt.sc/wkd015)
+41. **ID:** 689953337478610961
+      - **Motivo:** Raiding server (AFK Ovni)
       
 ### Esta lista tem um prazo de até 30 dias para ser atualizada! Portanto, caso haja novos banimentos ou desbanimentos levará este mesmo tempo para sofrer alterações!
