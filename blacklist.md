@@ -2,7 +2,7 @@
 
 > **Última atualização:** `17/01/2021`
 
-### **Total de usuários banidos:** 40
+### **Total de usuários banidos:** 41
 
 **Logo abaixo estará a lista com o ID dos usuários que estão na blacklist, caso seu ID esteja aqui, você deverá contactar a equipe para fazer um pedido de desbanimento (caso aplicado injustamente).**
 
