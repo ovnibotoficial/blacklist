@@ -1,6 +1,6 @@
 ## Ovni#7487 (708915970025979914)
 
-> **Última atualização:** `17/01/2021`
+> **Última atualização:** `24/01/2021`
 
 ### **Total de usuários banidos:** 41
 
@@ -56,43 +56,43 @@
       - **Motivo:** De acordo com a ToS do Discord é proibido menores de 13 anos usarem a plataforma. Caso já atinja a idade mínima necessária, contate a equipe de desenvolvedores do Ovni.
 22. **ID:** 537407060875149324
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-23. **ID:** 671800551511687198
-      - **Motivo:** Se passar pela equipe da Staff (Personificação)
-24. **ID:** 242360768878608386
+23. **ID:** 242360768878608386
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-25. **ID:** 270650328741838852
+24. **ID:** 270650328741838852
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-26. **ID:** 471783160481447936
+25. **ID:** 471783160481447936
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-27. **ID:** 780408285504208937
+26. **ID:** 780408285504208937
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]     
-28. **ID:** 668527271891697667
+27. **ID:** 668527271891697667
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO] 
-29. **ID:** 714643656140652594
+28. **ID:** 714643656140652594
       - **Motivo:** Por ser uma criança mimada e ficar tirando onda com a cara da equipe porque não se importa ser punido e fica ofendendo a equipe desobedecendo aos pedidos da equipe mesmo a equipe ter dito e ter punido e ainda ter dado segunda chance e não soube aproveitar. Mesmo que o comportamento não tenha sido feito no servidor de suporte e sim o outro você abusou da humildade do administrador do Ovni e está sendo punido por ser uma pessoa tóxica e babaca
-30. **ID:** 517156822612836392
+29. **ID:** 517156822612836392
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-31. **ID:** 649396552556609565
+30. **ID:** 649396552556609565
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-32. **ID:** 639556414032969739
+31. **ID:** 639556414032969739
       - **Motivo:** Ofensas ao BOT no servidor de suporte
-33. **ID:** 757513323934777374
+32. **ID:** 757513323934777374
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-34. **ID:** 759537468705472542
+33. **ID:** 759537468705472542
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-35. **ID:** 718934775808655380
+34. **ID:** 718934775808655380
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-36. **ID:** 497544475678081034
+35. **ID:** 497544475678081034
       - **Motivo:** Por ser ignorante com o próprio administrador do Ovni e pedir pra ser banido
-37. **ID:** 791769666771091456
+36. **ID:** 791769666771091456
       - **Motivo:** Você também é um falido da vida e não ficamos indo no seu DM para dizer verdades sobre sua pessoa. Por entrar no servidor de suporte e ser tóxico sem nenhum motivo
-38. **ID:** 756071038474911845
+37. **ID:** 756071038474911845
       - **Motivo:** You do not need to use Ovni if you are going to be using rape commands, as we do not support such behavior and will never have this command on Ovni. (https://prnt.sc/wjurwr)
-39. **ID:** 725244684070289409
+38. **ID:** 725244684070289409
       - **Motivo:** Quebra do ToS do Discord; Selfbot [BAN AUTO]
-40. **ID:** 726632216888606881
+39. **ID:** 726632216888606881
       - **Motivo:** Selfbot (https://prnt.sc/wkd015)
-41. **ID:** 689953337478610961
+40. **ID:** 689953337478610961
       - **Motivo:** Raiding server (AFK Ovni)
+41. **ID:** 771184562574983179
+      - **Motivo:** Abuso do comando sugest (mesmo receber aviso na DM que a próxima é ban)      
       
 ### Esta lista tem um prazo de até 30 dias para ser atualizada! Portanto, caso haja novos banimentos ou desbanimentos levará este mesmo tempo para sofrer alterações!
