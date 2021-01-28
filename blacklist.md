@@ -1,8 +1,8 @@
 ## Ovni#7487 (708915970025979914)
 
-> **Última atualização:** `24/01/2021`
+> **Última atualização:** `28/01/2021`
 
-### **Total de usuários banidos:** 41
+### **Total de usuários banidos:** 46
 
 **Logo abaixo estará a lista com o ID dos usuários que estão na blacklist, caso seu ID esteja aqui, você deverá contactar a equipe para fazer um pedido de desbanimento (caso aplicado injustamente).**
 
@@ -93,6 +93,16 @@
 40. **ID:** 689953337478610961
       - **Motivo:** Raiding server (AFK Ovni)
 41. **ID:** 771184562574983179
-      - **Motivo:** Abuso do comando sugest (mesmo receber aviso na DM que a próxima é ban)      
+      - **Motivo:** Abuso do comando sugest (mesmo receber aviso na DM que a próxima é ban)
+42. **ID:**  772622488378277908
+      - **Motivo:** Eu me acho o cara mais foda do Discord que eu abuso dos comandos de everyone e gosto de raidar servidores com isso porque eu sou um sem ninguém e meus pais são as pessoas mais idiota deste mundo que paga a internet pra eu ficar no Discord enchendo o saco dos outros e quebrando regras. Amo meus pais por serem babacas por ter criado um filho escroto como eu hahahah
+43. **ID:** 395995293436477442
+      - **Motivo:** Eu me acho o cara mais foda do Discord que eu abuso dos comandos de everyone e gosto de raidar servidores com isso porque eu sou um sem ninguém e meus pais são as pessoas mais idiota deste mundo que paga a internet pra eu ficar no Discord enchendo o saco dos outros e quebrando regras. Amo meus pais por serem babacas por ter criado um filho escroto como eu hahahah
+44. **ID:** 560571470158495764
+      - **Motivo:** Eu me acho o cara mais foda do Discord que eu abuso dos comandos de everyone e gosto de raidar servidores com isso porque eu sou um sem ninguém e meus pais são as pessoas mais idiota deste mundo que paga a internet pra eu ficar no Discord enchendo o saco dos outros e quebrando regras. Amo meus pais por serem babacas por ter criado um filho escroto como eu hahahah
+45. **ID:** 589497903920185606
+      - **Motivo:** Eu me acho o cara mais foda do Discord que eu abuso dos comandos de everyone e gosto de raidar servidores com isso porque eu sou um sem ninguém e meus pais são as pessoas mais idiota deste mundo que paga a internet pra eu ficar no Discord enchendo o saco dos outros e quebrando regras. Amo meus pais por serem babacas por ter criado um filho escroto como eu hahahah
+46. **ID:** 275400059732885505
+      - **Motivo:** Eu me acho o cara mais foda do Discord que eu abuso dos comandos de everyone e gosto de raidar servidores com isso porque eu sou um sem ninguém e meus pais são as pessoas mais idiota deste mundo que paga a internet pra eu ficar no Discord enchendo o saco dos outros e quebrando regras. Amo meus pais por serem babacas por ter criado um filho escroto como eu hahahah
       
 ### Esta lista tem um prazo de até 30 dias para ser atualizada! Portanto, caso haja novos banimentos ou desbanimentos levará este mesmo tempo para sofrer alterações!
